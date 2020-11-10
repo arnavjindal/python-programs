@@ -1,4 +1,4 @@
-# python-programs
+# SOME-PYTHON-PROGRAMS
 THESE ARE SOME OF THE PROGRAMS MADE IN THE TIME OF GLOBAL PANDEMIC **(Covid-19)**
 
 Main purpose of these python programs being uploaded on GitHub is to :
