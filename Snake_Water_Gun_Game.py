@@ -41,6 +41,6 @@ code accepts invalid characters.
 use numbers instead of s,w,g.
 print score with each turn.
 
-upload on github!. 
+upload on github!. ------------DONE ;)
 
 """
