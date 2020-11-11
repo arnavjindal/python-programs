@@ -109,7 +109,8 @@ def Main_1():
 
 
 a= input("you want to retrieve[R] or you want to log data[L]: ")
-if a== "L":
+a= a.lower()
+if a== "l":
     Main()
 else:
     Main_1()
