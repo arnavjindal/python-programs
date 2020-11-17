@@ -1,3 +1,8 @@
+#HEALTHY PROGRAMMER
+
+
+
+
 from pygame import mixer
 import time
 
@@ -83,7 +88,7 @@ def Logger(log_message):
         Log.write(log_message)
 
 def play_water():
-    mixer.music.load("Water.mp3")
+    mixer.music.load("Water.mp3")      # JUST A RANDOM SONG THAT I LOVE FOR NOW WILL ADD IT APPROPRIATE SONG LATER
     mixer.music.set_volume(0.4)
     mixer.music.play()
 def play_eyes():
