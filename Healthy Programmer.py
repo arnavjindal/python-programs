@@ -141,20 +141,6 @@ if inpu_start_ == "":
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
 # mixer.init()
 # mixer.music.load("song.mp3")
