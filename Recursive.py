@@ -32,5 +32,5 @@ def fibonacci_recursive(n):
 
 
 
-print(fibonacci_recursive(n))
 print(fibonacci_iterative(n))
+print(fibonacci_recursive(n))
