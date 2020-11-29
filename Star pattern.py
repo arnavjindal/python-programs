@@ -6,8 +6,8 @@ else:
     bool_ = True
 
 if bool_ :
-    for i in range(Row) :
-        for i in range ((i+1)):
+    for i in range(Row+1) :
+        for i in range ((i)):
             print("*",end= "")
         print()
 elif bool_ == False:

@@ -80,6 +80,7 @@ mat = pater.finditer(mystr)
 for matches in mat:
     # pass
     print(matches.group())
+    print(matches)
 # print(matches.string)
 
 
