@@ -7,5 +7,3 @@ class waw():
     def achhafunc(self, number):
         print("This is a function")
         return number
-
-        

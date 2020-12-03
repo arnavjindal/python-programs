@@ -1,0 +1,4 @@
+{
+    "files.autoSave": "onWindowChange",
+    "python.autoComplete.addBrackets": true
+}
