@@ -1,6 +1,3 @@
-#                                                                        “Divide the Apples.”
-#
-#
 # This task consists of a total of 10 points to evaluate your performance.
 #
 # Problem Statement:-
@@ -25,3 +22,25 @@
 # …
 #
 # 5 is a divisor of 20
+
+try:
+    a, mn, mx = input("enter n, mn, mx seperated by space: ").split()
+
+    a,mn,mx =int(a),int(mn),int(mx)
+except ValueError:
+    print("enter integer values only")
+    exit()
+if mn == mx or a<0:
+    print("enter a valid range")
+    exit()
+
+if mn >mx:
+    print("enter mx greater than mn")
+for i in range(mn,mx+1):
+
+    if a%i==0:
+        print(f'{i} is a divisor of {a}')
+    else:
+        print(f'{i} is not a divisor of {a}')
+
+
