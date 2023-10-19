@@ -9,6 +9,7 @@ def speak(str):
 if __name__ == '__main__':
     import requests
 
+    
     url1 =('https://newsapi.org/v2/top-headlines?country=in&category=technology&sortBy=publishedAt&apiKey=1cb5d20289cb4960b610dc1205b16c55')
     url =('https://newsapi.org/v2/top-headlines?country=in&category=science&sortBy=publishedAt&apiKey=1cb5d20289cb4960b610dc1205b16c55')
     response = requests.get(url)
