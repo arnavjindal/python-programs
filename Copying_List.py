@@ -1,6 +1,6 @@
 #perfect Solution - https://www.geeksforgeeks.org/python-cloning-copying-list/
 #Best Way ---------
-li1 = [4, 8, 2, 10, 15, 18]
+li1 = [4, 3,2,4,5,6,7,5,4,3]
 li_copy = li1[:]
 
 
